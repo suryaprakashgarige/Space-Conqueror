@@ -1,5 +1,6 @@
 # Documentation
 *.md
+!README.md
 
 # Virtual Environment & Python Caches
 .venv/
