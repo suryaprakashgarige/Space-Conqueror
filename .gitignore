@@ -1,0 +1,44 @@
+# Documentation
+*.md
+
+# Virtual Environment & Python Caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.pytest_cache/
+
+# Node & Frontend Build
+node_modules/
+dist/
+.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Blender Caches, Raw Binary Models & Render Media
+*.blend
+*.blend1
+*.mp4
+frames/
+frames_iter2/
+frames_photoreal/
+iterations/
+audio_temp/
+blender_pipeline/*.png
+blender_pipeline/*.jpg
+blender_pipeline/references/
+
+# Large Raw Datasets (NASA PDS / SPICE Kernels)
+data/raw/
+data/processed/
+
+# OS & Environment Files
+.DS_Store
+Thumbs.db
+.env
+.env.local
+.env.*.local
