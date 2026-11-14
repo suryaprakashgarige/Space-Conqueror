@@ -4,7 +4,7 @@
 
 [![Live Web App](https://img.shields.io/badge/Live_Cockpit-space--conqueror--sigma.vercel.app-00E5FF?style=for-the-badge&logo=vercel)](https://space-conqueror-sigma.vercel.app)
 [![NASA Space Apps](https://img.shields.io/badge/NASA_Space_Apps-Challenge_Project-blue?style=for-the-badge&logo=nasa)](https://www.spaceappschallenge.org)
-[![Canva Deck](https://img.shields.io/badge/7--Slide_Demo-Canva_Presentation-7928CA?style=for-the-badge&logo=canva)](https://www.canva.com/d/MdKJlxRUIOstr25)
+[![Slides Deck](https://img.shields.io/badge/7--Slide_Demo-Google_Slides-EA4335?style=for-the-badge&logo=google-slides)](https://docs.google.com/presentation/d/1RxLsukKEoIR-TVh88ZZNipXd8-lDk7Hl/edit?usp=drivesdk&ouid=111869408517493209993&rtpof=true&sd=true)
 
 ---
 
@@ -77,7 +77,7 @@ Tools like Space Conqueror prove that with modern web technologies, complex plan
 ### 🔗 Project Links
 
 * **Live Mission Cockpit**: [https://space-conqueror-sigma.vercel.app](https://space-conqueror-sigma.vercel.app)
-* **7-Slide Presentation (Canva)**: [https://www.canva.com/d/MdKJlxRUIOstr25](https://www.canva.com/d/MdKJlxRUIOstr25)
+* **7-Slide Project Presentation**: [https://docs.google.com/presentation/d/1RxLsukKEoIR-TVh88ZZNipXd8-lDk7Hl/edit?usp=drivesdk&ouid=111869408517493209993&rtpof=true&sd=true](https://docs.google.com/presentation/d/1RxLsukKEoIR-TVh88ZZNipXd8-lDk7Hl/edit?usp=drivesdk&ouid=111869408517493209993&rtpof=true&sd=true)
 * **GitHub Repository**: [https://github.com/suryaprakashgarige/Space-Conqueror](https://github.com/suryaprakashgarige/Space-Conqueror)
 * **Challenge**: NASA Space Apps Challenge
 * **Developer**: Surya Prakash Garige
